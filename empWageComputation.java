@@ -35,5 +35,4 @@ public class empWageComputation {
 		System.out.println("employee wage of month is: "+empWageForMonth);
 	}
 }
-	}
-}
+
